@@ -1,0 +1,1 @@
+# striveSchool-typescript1
